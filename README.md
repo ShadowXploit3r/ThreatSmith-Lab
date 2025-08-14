@@ -60,13 +60,7 @@ It allows me to **practice SOC analyst workflows** such as log collection, threa
 ---
 
 ## 📷 Screenshots  
-- Wazuh dashboard with alerts  
-- Sysmon logs in Wazuh  
-- MITRE ATT&CK mapping  
-- Connected agents overview  
-
-Example placeholders (replace with your own):  
-
+ 
 ![Wazuh Dashboard](images/WazuhDashboard.png)  
 ![Sysmon Logs](images/sysmon-logs.png)  
 
