@@ -69,7 +69,6 @@ Create a **Windows 10 VM**.
 - Network: **Bridged**  
 
 **Default credentials:**  
-```bash
 Username: msfadmin
 Password: msfadmin
 Verify connectivity with: ping <Wazuh-IP>
