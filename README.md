@@ -38,7 +38,7 @@ It allows me to **practice SOC analyst workflows** such as log collection, threa
 
 ## 🗺️ Architecture  
 
-![Architecture](images/soc-architecture.png)  
+![Architecture](images/Architecture.jpg)  
 
 ---
 
@@ -67,7 +67,7 @@ It allows me to **practice SOC analyst workflows** such as log collection, threa
 
 Example placeholders (replace with your own):  
 
-![Wazuh Dashboard](images/dashboard.png)  
+![Wazuh Dashboard](images/WazuhDashboard.png)  
 ![Sysmon Logs](images/sysmon-logs.png)  
 
 ---
