@@ -56,7 +56,6 @@ It allows me to **practice SOC analyst workflows** such as log collection, threa
 ## 📂 Documentation  
 - [Setup Guide](setup-guide.md) – How I built the lab  
 - [Attack Scenarios](attack-scenarios.md) – Example detections from Kali simulations  
-- [Sysmon Config](configs/sysmonconfig.xml) – Sysmon configuration file  
 
 ---
 
