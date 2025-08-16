@@ -62,7 +62,7 @@ It allows me to **practice SOC analyst workflows** such as log collection, threa
 ## 📷 Screenshots  
  
 ![Wazuh Dashboard](images/WazuhDashboard.png)  
-![Sysmon Logs](images/sysmon-logs.png)  
+![Sysmon Logs](images/Sysmon.png)  
 
 ---
 
